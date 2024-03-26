@@ -1,3 +1,14 @@
+# Large Data
+original-images/
+old_files/wordnet_wo_sentence/adv-images
+old_files/wordnet_wo_sentence/nat-images
+old_files/wordnet+sentence/gen-adv-images
+old_files/wordnet+sentence/gen-nat-images
+gen-nat-images/
+gen-adv-images/
+flickr8k/
+adv-images/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
